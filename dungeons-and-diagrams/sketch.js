@@ -464,7 +464,7 @@ function draw() {
   drawMonsters();
   drawTreasure();
   drawNumbers();
-  drawAllWalls();
+  // drawAllWalls();
   drawWalls();
   textSize(50);
 
